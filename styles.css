@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+}
+
+.start{
+  text-align: center;
+  padding: 30px;
+}
+
+.main{
+  width: 100%;
+  text-align: center;
+}
+
+.btn{
+  padding: 5px 10px;
+  border: none;
+  font-family: arial;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+
+h1{
+  font-size: 6rem;
+  font-family: cursive;
+  text-align: center;
+
+
+}
+
+.game-body{
+  margin-top: 10px;
+}
+
+p{
+  font-size: 2rem;
+  font-family: cursive;
+}
+
+footer{
+  text-align: center;
+  margin-top: 30px;
+  font-family: cursive;
+}
+
+
+@media (max-width: 390px) {
+
+  h1{
+    font-size: 3.2rem;
+  }
+
+  p{
+    font-size: 1.2rem;
+  }
+
+  img{
+    width: 150px;
+    height: 150px;
+  }
+
+
+}
